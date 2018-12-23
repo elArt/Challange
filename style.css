@@ -22,3 +22,15 @@ body{
      inset 0 2px 1px rgba(0, 225, 255, 0.9),
      0 4px 4px rgba(0,0,0,.9);
   }
+  @media (max-width: 1294px){
+    .plus {
+    font-weight: 900;
+    font-size: 150%;
+    }
+  }
+  @media (max-width: 990px){
+    .plus {
+    font-weight: 900;
+    font-size: 75%;
+    }
+  }
